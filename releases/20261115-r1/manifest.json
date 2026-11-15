@@ -1,0 +1,88 @@
+{
+  "release": "20261115-r1",
+  "audio_clips": 274,
+  "audio_recompressed": 262,
+  "audio_original_bytes": 17692539,
+  "audio_optimized_bytes": 12213404,
+  "texture_count": 339,
+  "embedded_textures": "Unity-native texture payloads retained and SHA-256 verified",
+  "video_clips": 0,
+  "original_build_bytes": 124626460,
+  "build": [
+    {
+      "file": "Build/index.html.data.br",
+      "raw_bytes": 74937205,
+      "bytes": 56134700,
+      "sha256": "5d951e63f3d08565d7387bcfeb5d66245372881b8af0f0a6c709887871dbf1ca"
+    },
+    {
+      "file": "Build/index.html.wasm.br",
+      "raw_bytes": 44293949,
+      "bytes": 9687607,
+      "sha256": "7a6f4c851715afb7ce48c5c2936037fabf4f0e816c715d4724ef8590eea41559"
+    }
+  ],
+  "images": [
+    {
+      "file": "preview.webp",
+      "original_bytes": 613250,
+      "bytes": 54508
+    },
+    {
+      "file": "TemplateData/MemoryProfiler.webp",
+      "original_bytes": 665,
+      "bytes": 278
+    },
+    {
+      "file": "TemplateData/fullscreen-button.webp",
+      "original_bytes": 175,
+      "bytes": 290
+    },
+    {
+      "file": "TemplateData/unity-logo-dark.webp",
+      "original_bytes": 3042,
+      "bytes": 1316
+    },
+    {
+      "file": "TemplateData/webmemd-icon.webp",
+      "original_bytes": 1670,
+      "bytes": 1420
+    },
+    {
+      "file": "TemplateData/progress-bar-empty-light.webp",
+      "original_bytes": 109,
+      "bytes": 172
+    },
+    {
+      "file": "TemplateData/webgl-logo.webp",
+      "original_bytes": 2947,
+      "bytes": 1346
+    },
+    {
+      "file": "TemplateData/game-icon.webp",
+      "original_bytes": 46238,
+      "bytes": 5038
+    },
+    {
+      "file": "TemplateData/progress-bar-full-dark.webp",
+      "original_bytes": 74,
+      "bytes": 66
+    },
+    {
+      "file": "TemplateData/progress-bar-full-light.webp",
+      "original_bytes": 84,
+      "bytes": 78
+    },
+    {
+      "file": "TemplateData/progress-bar-empty-dark.webp",
+      "original_bytes": 96,
+      "bytes": 130
+    },
+    {
+      "file": "TemplateData/unity-logo-light.webp",
+      "original_bytes": 3077,
+      "bytes": 1316
+    }
+  ],
+  "deployed_build_bytes": 66323684
+}
